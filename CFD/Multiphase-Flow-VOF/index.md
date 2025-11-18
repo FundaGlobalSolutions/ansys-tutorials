@@ -9,13 +9,16 @@ This page showcases an advanced CFD project using the **Volume of Fluid (VOF)** 
 
 VOF simulations are essential for:
 
-- Free-surface flows  
-  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 600px;">
-    <video controls autoplay loop muted 
-           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-      <source src="assets/mass-fraction-of-h2.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+- <div style="display:flex; flex-direction:column; gap:6px;">
+    <span>Free-surface flows</span>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; 
+                overflow: hidden; max-width: 600px;">
+      <video controls autoplay loop muted 
+             style="position: absolute; top: 0; left: 0; 
+                    width: 100%; height: 100%;">
+        <source src="assets/mass-fraction-of-h2.mp4" type="video/mp4">
+      </video>
+    </div>
   </div>
 
 - Sloshing tanks & ship motion  
@@ -24,6 +27,7 @@ VOF simulations are essential for:
 - Wave interaction studies  
 
 This demonstration highlights accurate modeling of **interface formation**, **surface tension**, **gravity effects**, and **transient fluid behaviour**.
+
 
 
 
