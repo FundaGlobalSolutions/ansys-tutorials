@@ -73,10 +73,10 @@ I provide:
 
 If you want the complete step-by-step guide, recorded sessions, or project support:
 
-📞 **+91 9580630193 (WhatsApp Available)** 
-📧 **fundaglobalsolutions@gmail.com**  
+💬 Contact for pricing, custom tutorials, and project collaboration
 🌐 *https://fundaglobalsolutions.github.io/ansys-tutorials/*  
-💬 Contact for pricing, custom tutorials, and project collaboration  
+📞 *+91 9580630193 (WhatsApp Available)* 
+📧 *fundaglobalsolutions@gmail.com* 
 
 ---
 
