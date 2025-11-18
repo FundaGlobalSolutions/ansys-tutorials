@@ -9,7 +9,12 @@ This page showcases an advanced CFD project using the **Volume of Fluid (VOF)** 
 
 VOF simulations are essential for:
 
-- Free-surface flows  
+- Free-surface flows
+<video width="600" controls autoplay loop muted>
+  <source src="assets/mass-fraction-of-h2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 - Sloshing tanks & ship motion  
 - Pouring & filling processes  
 - Spillways & channel flows  
