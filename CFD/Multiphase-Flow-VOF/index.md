@@ -21,16 +21,10 @@ This demonstration highlights accurate modeling of **interface formation**, **su
 
 ## 🎥 Visual Outputs
 
-*(You can upload your animations, images, and simulation snippets here)*
-
-Examples you may include:
-
 - Water–air interface motion animation  
 - Volume fraction contours  
 - Velocity vectors and streamlines  
 - Free-surface shape evolution  
-
-These visuals help clients understand the depth and accuracy of the simulation work you provide.
 
 ---
 
@@ -46,7 +40,7 @@ This project is designed to teach you:
 - Initializing levels using **patching**  
 - Best practices for **stable convergence**
 
-A complete tutorial or 1-on-1 guidance is available on request.
+A complete tutorial or 1-on-1 project guidance is available on request.
 
 ---
 
@@ -79,8 +73,9 @@ I provide:
 
 If you want the complete step-by-step guide, recorded sessions, or project support:
 
-📧 **your-email@example.com**  
-🌐 *(Your Website / Portfolio link)*  
+📞 **+91 9580630193 (WhatsApp Available)** 
+📧 **fundaglobalsolutions@gmail.com**  
+🌐 *https://fundaglobalsolutions.github.io/ansys-tutorials/*  
 💬 Contact for pricing, custom tutorials, and project collaboration  
 
 ---
