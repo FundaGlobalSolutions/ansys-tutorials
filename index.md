@@ -18,7 +18,7 @@ If you need complete step-by-step tutorials, guidance for academic projects, or 
 
 ---
 
-# 🚀 CFD Projects – Text-Grid View
+# 🚀 CFD Projects
 
 <style>
 .grid-container {
@@ -48,12 +48,16 @@ If you need complete step-by-step tutorials, guidance for academic projects, or 
 <div class="grid-container">
 
   <div class="grid-item">
-    <a href="CFD/Multiphase-Flow-VOF/index.md">Multiphase Flow Using VOF (Water–Air Interface)</a>
-    <p>Simulation of water–air interface using VOF multiphase model.</p>
+    <a href="/ansys-tutorials/CFD/Multiphase-Flow-VOF/">
+      Multiphase Flow Using VOF (Water–Air Interface)
+    </a>
+    <p>Simulation of water–air interface using the VOF multiphase model.</p>
   </div>
 
   <div class="grid-item">
-    <a href="CFD/Species-Transport-Modelling/index.md">Hydrogen–Air Species Transport (Turbofan Combustion)</a>
+    <a href="/ansys-tutorials/CFD/Species-Transport-Modelling/">
+      Hydrogen–Air Species Transport (Turbofan Combustion)
+    </a>
     <p>Species transport modelling for hydrogen combustion in turbofan flow.</p>
   </div>
 
@@ -66,24 +70,13 @@ If you need complete step-by-step tutorials, guidance for academic projects, or 
 <div class="grid-container">
 
   <div class="grid-item">
-    <a href="combined-analysis/Helmet-Safety-Analysis/index.md">Helmet Safety – Structural + CFD + Thermal + Dynamics</a>
-    <p>Full multi-physics evaluation of helmet performance under impact, heat, and airflow.</p>
+    <a href="/ansys-tutorials/combined-analysis/Helmet-Safety-Analysis/">
+      Helmet Safety – Structural + CFD + Thermal + Dynamics
+    </a>
+    <p>Complete multi-physics evaluation of helmet performance under impact, heat, and airflow.</p>
   </div>
 
 </div>
-
----
-
-# 📚 Auto-Generated Sidebar Navigation (Coming Soon)
-
-This section will dynamically list all folders inside:
-
-- `CFD/`
-- `FEA/`
-- `combined-analysis/`
-- `thermal-analysis/`
-
-A fully automated navigation system will be added soon.
 
 ---
 
@@ -100,4 +93,4 @@ A fully automated navigation system will be added soon.
 
 # 🔙 Back to Repository Root
 
-[Return to GitHub Repository Home](../)
+[Return to GitHub Repository Home](https://github.com/FundaGlobalSolutions/ansys-tutorials)
