@@ -18,47 +18,43 @@ If you need complete step-by-step tutorials, guidance for academic projects, or 
 
 ---
 
-# 🚀 CFD Projects – Gallery View
-
-Below is a **grid-style gallery** of all available CFD projects.  
-Click any project to open the detailed tutorial.
+# 🚀 CFD Projects – Text-Grid View
 
 <style>
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 18px;
+  gap: 16px;
 }
 .grid-item {
   border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 12px;
-  text-align: center;
-  background: #fafafa;
-}
-.grid-item img {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
   border-radius: 8px;
-  margin-bottom: 8px;
+  padding: 12px;
+  background: #fafafa;
+  text-align: left;
 }
 .grid-item a {
   font-weight: 600;
   font-size: 1.05rem;
+  text-decoration: none;
+}
+.grid-item p {
+  font-size: 0.9rem;
+  margin-top: 6px;
+  color: #444;
 }
 </style>
 
 <div class="grid-container">
 
   <div class="grid-item">
-    <img src="CFD/Multiphase-Flow-VOF/assets/vof-thumbnail.png" alt="VOF Simulation">
     <a href="CFD/Multiphase-Flow-VOF/index.md">Multiphase Flow Using VOF (Water–Air Interface)</a>
+    <p>Simulation of water–air interface using VOF multiphase model.</p>
   </div>
 
   <div class="grid-item">
-    <img src="CFD/Species-Transport-Modelling/assets/temperature-distribution.png" alt="Species Transport">
-    <a href="CFD/Species-Transport-Modelling/index.md">Species Transport Modelling (Hydrogen–Air Combustion)</a>
+    <a href="CFD/Species-Transport-Modelling/index.md">Hydrogen–Air Species Transport (Turbofan Combustion)</a>
+    <p>Species transport modelling for hydrogen combustion in turbofan flow.</p>
   </div>
 
 </div>
@@ -67,13 +63,11 @@ Click any project to open the detailed tutorial.
 
 # 🧩 Combined Multi-Physics Projects
 
-Projects involving multiple ANSYS modules such as **Structural + CFD + Thermal + Explicit Dynamic**.
-
 <div class="grid-container">
 
   <div class="grid-item">
-    <img src="combined-analysis/Helmet-Safety-Analysis/assets/Design of Helmet.PNG" alt="Helmet Safety">
-    <a href="combined-analysis/Helmet-Safety-Analysis/index.md">Helmet Safety – Structural, CFD, Thermal & Impact Analysis</a>
+    <a href="combined-analysis/Helmet-Safety-Analysis/index.md">Helmet Safety – Structural + CFD + Thermal + Dynamics</a>
+    <p>Full multi-physics evaluation of helmet performance under impact, heat, and airflow.</p>
   </div>
 
 </div>
@@ -82,16 +76,14 @@ Projects involving multiple ANSYS modules such as **Structural + CFD + Thermal +
 
 # 📚 Auto-Generated Sidebar Navigation (Coming Soon)
 
-This section will automatically list all folders inside:
+This section will dynamically list all folders inside:
 
 - `CFD/`
 - `FEA/`
 - `combined-analysis/`
 - `thermal-analysis/`
 
-It will help users quickly navigate every tutorial with **dynamic sidebar indexing**.
-
-*(Feature under development)*
+A fully automated navigation system will be added soon.
 
 ---
 
@@ -100,9 +92,9 @@ It will help users quickly navigate every tutorial with **dynamic sidebar indexi
 - Transient heat transfer  
 - Turbulent jet simulation  
 - Blade stress analysis  
-- FSI (Fluid–Structure Interaction)  
 - EV battery thermal CFD  
-- And more…
+- Aeroacoustics  
+- FSI (Fluid–Structure Interaction)  
 
 ---
 
