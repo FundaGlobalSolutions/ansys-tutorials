@@ -73,10 +73,14 @@ I provide:
 
 If you want the complete step-by-step guide, recorded sessions, or project support:
 
-💬 Contact for pricing, custom tutorials, and project collaboration
-🌐 *https://fundaglobalsolutions.github.io/ansys-tutorials/*  
-📞 *+91 9580630193 (WhatsApp Available)* 
-📧 *fundaglobalsolutions@gmail.com* 
+💬 Contact for pricing, custom tutorials, and project collaboration  
+🌐 https://fundaglobalsolutions.github.io/ansys-tutorials/  
+📧 fundaglobalsolutions@gmail.com  
+
+<a href="https://wa.me/919580630193" target="_blank">
+  <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat">
+</a>
+
 
 ---
 
