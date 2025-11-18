@@ -26,21 +26,21 @@ This demonstration highlights accurate modeling of **interface formation**, **su
 
 ## 🎥 Visual Outputs
 
-- <div style="display:flex; flex-direction:column; margin:0; padding:0;">
-    <span style="margin:0; padding:0;">Water–air interface motion animation</span>
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; 
-                overflow: hidden; max-width: 600px; margin:0; padding:0;">
-      <video controls autoplay loop muted 
-             style="position: absolute; top: 0; left: 0; 
-                    width: 100%; height: 100%; margin:0; padding:0;">
-        <source src="assets/mass-fraction-of-h2.mp4" type="video/mp4">
-      </video>
-    </div>
-  </div>
- 
+- Water–air interface motion animation  
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; 
+            overflow: hidden; max-width: 600px; margin: 6px 0 16px 20px;">
+  <video controls autoplay loop muted 
+         style="position: absolute; top: 0; left: 0; 
+                width: 100%; height: 100%;">
+    <source src="assets/mass-fraction-of-h2.mp4" type="video/mp4">
+  </video>
+</div>
+
 - Volume fraction contours  
 - Velocity vectors and streamlines  
 - Free-surface shape evolution  
+ 
 
 
 ---
