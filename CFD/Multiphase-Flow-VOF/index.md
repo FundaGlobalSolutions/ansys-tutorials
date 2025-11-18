@@ -3,11 +3,26 @@
 
 This page showcases an advanced CFD project using the **Volume of Fluid (VOF)** model to simulate **water–air interface behavior**. It demonstrates the type of high-quality analysis, guidance, and tutorials I provide for engineering students, researchers, and professionals working with multiphase flows.
 
+<a href="https://wa.me/919580630193" target="_blank">
+  <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat">
+</a>
 ---
 
 ## 🌊 Project Overview
 
 VOF simulations are essential for:
+
+- Free-surface flows
+- Sloshing tanks & ship motion  
+- Pouring & filling processes  
+- Spillways & channel flows  
+- Wave interaction studies  
+
+This demonstration highlights accurate modeling of **interface formation**, **surface tension**, **gravity effects**, and **transient fluid behaviour**.
+
+---
+
+## 🎥 Visual Outputs
 
 - <div style="display:flex; flex-direction:column; gap:6px;">
     <span>Free-surface flows</span>
@@ -21,21 +36,6 @@ VOF simulations are essential for:
     </div>
   </div>
 
-- Sloshing tanks & ship motion  
-- Pouring & filling processes  
-- Spillways & channel flows  
-- Wave interaction studies  
-
-This demonstration highlights accurate modeling of **interface formation**, **surface tension**, **gravity effects**, and **transient fluid behaviour**.
-
-
-
-
-
----
-
-## 🎥 Visual Outputs
-
 - Water–air interface motion animation  
 - Volume fraction contours  
 - Velocity vectors and streamlines  
@@ -43,8 +43,7 @@ This demonstration highlights accurate modeling of **interface formation**, **su
 
 ---
 
-## 💡 What You Will Learn (If You Take the Tutorial / Course)
-
+## 💡 What You Will Learn 
 This project is designed to teach you:
 
 - How to configure **VOF multiphase models**
