@@ -62,7 +62,7 @@ If you need complete step-by-step tutorials, guidance for academic projects, or 
   </div>
 
   <div class="grid-item">
-    <a href="/ansys-tutorials/CFD/Solar-Air-Heater-Analysis/">
+    <a href="/ansys-tutorials/CFD/Solar-Air-Heater/">
       Solar Air Heater – Simple CFD Study
     </a>
     <p>Basic CFD analysis of tilt angle & mass flow rate on solar air heater performance.</p>
