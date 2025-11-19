@@ -55,17 +55,17 @@ Below are the CFD result images included in this project:
 <div class="grid-container">
 
   <div class="grid-item">
-    <a href=" assets/Velocity-Vector-15deg.png">Velocity Vector – 15° Tilt</a>
+    <a href="assets/Velocity Vector Representation at 15 degree tilt.png">Velocity Vector – 15° Tilt</a>
     <p>Flow behaviour and velocity pattern at 15° inclination.</p>
   </div>
 
   <div class="grid-item">
-    <a href=" assets/Velocity-Vector-0deg.png">Velocity Vector – 0° Tilt</a>
+    <a href="assets/Velocity Vector Representation at zero degree tilt.png">Velocity Vector – 0° Tilt</a>
     <p>Airflow characteristics at horizontal configuration.</p>
   </div>
 
   <div class="grid-item">
-    <a href=" assets/Velocity-Vector-30deg.png">Velocity Vector – 30° Tilt</a>
+    <a href="assets/Velocity Vector Representation at 30 degree tilt.png">Velocity Vector – 30° Tilt</a>
     <p>Enhanced convection patterns at moderate tilt.</p>
   </div>
 
